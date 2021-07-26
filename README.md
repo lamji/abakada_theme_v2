@@ -1,7 +1,11 @@
-## Customization
+## To install this app
 
-Abakada_theme
+bench get-app https://github.com/lamji/abakada_theme_v2.git
 
-#### License
+bench --site (sitename) install-app customization
 
-MIT
+bench clear-cache
+
+## To uninstall this app
+
+bench --site (sitename) uninstall-app customization
