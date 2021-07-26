@@ -1,0 +1,19 @@
+.navbar-brand img {
+    display: inline-block;
+    max-width: 150px;
+    max-height: 50px !important;
+}
+.btn.btn-secondary.btn-default.btn-sm{
+    background-color: #7a0200 !important;
+    color: white !important;
+}
+.btn.btn-primary.btn-sm.primary-action {
+    background-color: #7a0200 !important;
+}
+/* // Home page */
+.navbar.navbar-light.navbar-expand-lg {
+    padding: 0 10px !important;
+}
+.btn.btn-sm.btn-primary.btn-block.btn-login {
+    background-color: #7a0200 !important;
+}
